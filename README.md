@@ -10,5 +10,14 @@ Using Python, Pandas functions and methods, and SQLAlchemy, I filtered the date 
 Deliverable 1 is the June dataframe, and Deliverable 2 is the December dataframe. 
 
 ## Results
-June Summary statistics:
-![June_statistics](
+June summary statistics:
+
+![June_statistics](https://github.com/nyhandan/Challenge_9_SurfsUp/blob/main/Challenge_9_SurfsUp/June_statistics.png)
+
+December summary statistics:
+
+![December_statistics](https://github.com/nyhandan/Challenge_9_SurfsUp/blob/main/Challenge_9_SurfsUp/December_statistics.png)
+
+
+### Differences between June and December 
+- 
