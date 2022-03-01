@@ -19,5 +19,5 @@ December summary statistics:
 ![December_statistics](https://github.com/nyhandan/Challenge_9_SurfsUp/blob/main/Challenge_9_SurfsUp/December_statistics.png)
 
 
-### Differences between June and December 
-- 
+### Three Differences between June and December 
+- The 
